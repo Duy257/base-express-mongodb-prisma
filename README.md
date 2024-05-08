@@ -1,1 +1,1 @@
-# base-express-mongodb-prisma
+run project: npm run dev
